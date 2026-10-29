@@ -1,5 +1,7 @@
 # arXiv-daily — arXiv math.AP 每日精选
 
+**A daily curated digest of arXiv **math.AP** (PDE) preprints** — focused on fluid equations (Euler, Navier–Stokes, MHD, Boussinesq, primitive equations) and neighboring mathematical-physics topics, with one-line reading notes in Chinese for each selected paper. One file per announcement day, `YYYY-MM-DD.md`.
+
 每日人工筛读的 arXiv **math.AP**（偏微分方程）新到论文精选摘要，重点是流体力学方程（Euler / Navier–Stokes / MHD / Boussinesq / 原始方程等）的**稳定性、适定性、长时间行为与正则性**方向。
 
 ## 文件格式
@@ -20,3 +22,7 @@
 
 - 点评为速记性质的个人筛读笔记，非正式综述；引用请以 arXiv 原文为准
 - 更新不定期（工作日为主），每文件对应 arXiv 公告日
+
+## License
+
+内容以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权：注明出处（链接本仓库）即可自由分享与改编。
