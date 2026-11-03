@@ -2,7 +2,7 @@
 
 **A daily curated digest of arXiv **math.AP** (PDE) preprints** — focused on fluid equations (Euler, Navier–Stokes, MHD, Boussinesq, primitive equations) and neighboring mathematical-physics topics, with one-line reading notes in Chinese for each selected paper. One file per announcement day, `YYYY-MM-DD.md`.
 
-每日人工筛读的 arXiv **math.AP**（偏微分方程）新到论文精选摘要，重点是流体力学方程（Euler / Navier–Stokes / MHD / Boussinesq / 原始方程等）的**稳定性、适定性、长时间行为与正则性**方向。
+每日人工筛读的 arXiv **math.AP**（偏微分方程）新到论文精选摘要，重点是流体力学方程方向。
 
 ## 文件格式
 
